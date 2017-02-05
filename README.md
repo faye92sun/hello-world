@@ -5,3 +5,4 @@ What am I doing here?
 
 This should be different from the master branch.
 I wrote this line on my local computer
+This is a second line added from my local computer.
